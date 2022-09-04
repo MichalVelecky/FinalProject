@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Forest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Forest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Forest.jar">
+        <element id="module-output" name="Forest" />
+      </element>
+    </root>
+  </artifact>
+</component>
